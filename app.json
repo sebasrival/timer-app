@@ -26,10 +26,7 @@
     },
     "plugins": [
       [
-        "expo-font",
-        {
-          "fonts": ["node_modules/@expo-google-fonts/rubik/Rubik_900Black.ttf"]
-        }
+        "expo-font"
       ]
     ]
   }
